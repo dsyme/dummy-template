@@ -1,1 +1,1 @@
-# dummy-template
+# empty-template
